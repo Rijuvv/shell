@@ -1,1 +1,1 @@
-#My Shell scripts
+#Script send a mail to your mail id, when the disk space reaches to a particular Threshold
